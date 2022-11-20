@@ -7,5 +7,5 @@
             - carte arduino ( uno , nano , what ever ..)
             - module GSM/GPRS SIM800l 
             - module GPS NEO6MV2
-            - dht senseor 
+            - MQ2 senseor  
             - voltage source 5v 
