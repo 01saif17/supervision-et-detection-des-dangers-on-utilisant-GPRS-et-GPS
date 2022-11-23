@@ -81,7 +81,7 @@ new google.maps.Marker({
 	</script>
 		
 	<script async defer
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2OHlmHcLs-er_JbDtiMsW-CyYdrP83zI&callback=initMap">
+	src="https://maps.googleapis.com/maps/api/js?key=**your API key **&callback=initMap">
 	</script>
 	
 	
